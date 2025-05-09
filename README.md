@@ -28,7 +28,7 @@
 - width = Tamaño del boton ancho
 - height = Tamaño del boton alto
 -------------
-###Posicionamiento de los Widgets:
+### Posicionamiento de los Widgets:
 - .grid() = Posiciona un widget en un sistema de filas y columnas.
 - row = En que fila estará
 - column = En que columna estará
